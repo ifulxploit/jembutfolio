@@ -1,6 +1,7 @@
 # JembutFolio - Tailwind Minimal CSS Personal Portfolio HTML5 Template
 ![JembutFolio - Tailwind Minimal CSS Personal Portfolio HTML5 Template](Screenshot.webp)
 
+Live Preview : [See Here](https://ifulxploit.github.io/jembutfolio/)
 Author: [ifulxploit](saifulmiqdar.vercel.app)  
 Email: [ifulxploit@gmail.com](mailto:ifulxploit@gmail.com)  
 WhatsApp: [083871259489](https://wa.me/6283871259489)  
